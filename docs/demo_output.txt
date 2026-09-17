@@ -1,0 +1,27 @@
+C++ Trading Engine Simulator
+Loaded 3 market snapshots from data/sample_orders.csv
+Type 'help' for commands.
+
+[2026-09-01T10:00:00Z] >   BTC/USDT
+  ETH/USDT
+
+[2026-09-01T10:00:00Z] > Bids: 2, asks: 2
+Highest bid: 59800.000000
+Lowest ask:  60000.000000
+
+[2026-09-01T10:00:00Z] > BTC: 1.000000
+ETH: 8.000000
+USDT: 15000.000000
+
+[2026-09-01T10:00:00Z] > Order accepted. It will be considered when this snapshot is matched.
+
+[2026-09-01T10:00:00Z] > Matched 1 trade(s).
+Advanced to 2026-09-01T10:05:00Z.
+
+[2026-09-01T10:05:00Z] > BTC: 1.050000
+ETH: 8.000000
+USDT: 12000.000000
+
+[2026-09-01T10:05:00Z] > 2026-09-01T10:00:00Z | BTC/USDT | 0.050000 @ 60000.000000 | buyer=portfolio-user seller=market
+
+[2026-09-01T10:05:00Z] > Goodbye.
