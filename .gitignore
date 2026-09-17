@@ -1,0 +1,16 @@
+# Build output
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+
+# Local data / secrets
+.env
+*.log
